@@ -5,3 +5,4 @@ _ReSharper.Caches
 *.user
 tools/CommandLineTools/
 tools/JetBrains.ReSharper.CommandLineTools.zip
+resharper.xml
