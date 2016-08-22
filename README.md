@@ -9,3 +9,5 @@ To reproduce bug, call the following cmd files from the VS Developer Command pro
 `$ 3inspectcode.cmd`
 
 Output will be written to `resharper.xml`.
+
+*Note:* By using this repository, you accept the [ReSharper Command Line Tools License Agreement](https://www.jetbrains.com/resharper/buy/command_line_license.html).
