@@ -1,0 +1,7 @@
+bin
+obj
+.vs
+_ReSharper.Caches
+*.user
+tools/CommandLineTools/
+tools/JetBrains.ReSharper.CommandLineTools.zip
